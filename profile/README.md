@@ -19,8 +19,8 @@ the published conformance test vectors — recompute it yourself.
 | --- | --- |
 | Website | [hachure.org](https://hachure.org) |
 | Specification | [hachure-org/spec](https://github.com/hachure-org/spec) |
-| npm | [`hachure`](https://www.npmjs.com/package/hachure) — schemas + conformance test vectors |
-| Reference implementation | [`@kontourai/surface`](https://github.com/kontourai/surface) |
+| npm | [`hachure`](https://www.npmjs.com/package/hachure) — schemas, conformance test vectors, and a bundled implementation (derive, merge, CLI) |
+| Implementations | bundled with the `hachure` package · [others](https://github.com/hachure-org/spec#implementations) listed in the spec |
 
 Hachure is currently developed by [Kontour AI](https://kontourai.io), which holds
 the name to protect it. We intend to move the specification to neutral governance
